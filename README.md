@@ -11,7 +11,7 @@ CodeJumpの練習課題「Photo Book」をもとに制作したWebサイトで�
 - CSS
 
 ## Live Demo
-https://（ここにGitHub PagesのURLを貼る）
+https://satoru-tanaka-1977.github.io/codejump-photo-book-v2/
 
 ## Notes
 This is a practice project for learning front-end development.
